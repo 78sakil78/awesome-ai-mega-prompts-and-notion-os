@@ -1,45 +1,21 @@
-# ⚡ Awesome AI Mega-Prompts, Business SOPs & Notion Operating System
+# Sakil Studio™ — Business AI Prompts, SOP Checklists & Notion CSV Setup Guides
 
-> **Stop duct-taping 10 disconnected apps together.** A curated collection of **4-Layer Executive AI Mega-Prompts (for ChatGPT & Claude)**, **Standard Operating Procedure (SOP) Checklists**, **Client Onboarding Frameworks**, and **All-in-One Notion Business Architecture** for solopreneurs, coaches, consultants, freelancers, and digital creators.
-
----
-
-## 🚀 Official Download & Access Links
-
-* 🎁 **[Start Here (Free Download) — The Solopreneur Reset™ (15-Point Workflow Audit + Mini Notion Hub + 10 Golden AI Mega-Prompts) →](https://sakilwave38.gumroad.com/l/solopreneur-reset-kit)**
-* 🤖 **[The AI Executive Prompt & SOP Vault™ (50 Role-Based Mega-Prompts + 10 Business SOPs + 15 Client Email Scripts + Notion Client Portal) →](https://sakilwave38.gumroad.com/l/ai-ceo-prompt-vault)**
-* 🏛️ **[The Automated CEO™ Complete Business, Brand & Client Operating System (6 Interconnected Notion Databases + 8 Module Vaults + 16 Canva Templates) →](https://sakilwave38.gumroad.com/l/the-automated-ceo)**
-* 🌿 **[The Overwhelm Reset Kit (14-Page Printable ADHD & Executive Function Planner) →](https://sakilwave38.gumroad.com/l/overwhelm-reset-kit)**
+> **Practical Digital Tools for Better Work and Everyday Organization. Clear tools. Practical systems. Honest deliverables.**
 
 ---
 
-## 🧠 Part 1: The 4-Layer AI Mega-Prompt Architecture
+## Official Storefront Links
 
-Why do 95% of business owners get generic, robotic outputs from ChatGPT and Claude? Because one-sentence prompts lack executive context, role constraints, and structured output rules.
-
-Every prompt in our system uses this **4-Layer Formula**:
-
-1. **Layer 1 — Executive Role Assignment:** *"Act as a 10-year Senior Brand Architect, Chief Operating Officer, and Direct-Response Strategist."*
-2. **Layer 2 — Deep Audience & Business Context:** Feed your target audience, their top 3 daily workflow bottlenecks, your core offer deliverables, and your Brand Voice Charter.
-3. **Layer 3 — Structured Deliverable Blueprint:** Request Markdown tables, numbered step-by-step SOP checklists, 3-phase project scopes, or fill-in-the-blank email scripts.
-4. **Layer 4 — The 15-Minute QA Verification Check:** Require a 5-point self-audit and a 15-minute implementation checklist at the end of every response.
-
-👉 **[Download 10 Free Golden AI Mega-Prompts + the 15-Point Business Audit Here →](https://sakilwave38.gumroad.com/l/solopreneur-reset-kit)**
-👉 **[Or Unlock All 50 Executive Mega-Prompts + 10 SOPs + 15 Client Email Scripts Here →](https://sakilwave38.gumroad.com/l/ai-ceo-prompt-vault)**
+* 🎁 **[The Solopreneur Reset (Free / $0+) — 5-Day Business Audit, 15-Point Review PDF, 10 AI Prompts & Mini Notion CSV Setup Guide →](https://sakilwave38.gumroad.com/l/solopreneur-reset-kit)**
+* 🤖 **[AI Executive Vault ($14) — 50 Business AI Prompts (14-Page PDF) + 10 SOP Templates (3-Page PDF) + 15 Client Email Scripts (5-Page PDF) →](https://sakilwave38.gumroad.com/l/ai-ceo-prompt-vault)**
+* 🗂️ **[The Automated CEO ($29) — Notion Business OS Starter Kit: 6 CSV Database Templates + Setup Guide + 50 AI Prompts + 10 SOPs + 16 Canva Design Briefs →](https://sakilwave38.gumroad.com/l/the-automated-ceo)**
+* 📋 **[The Overwhelm Reset Kit ($5.99) — 34 Printable US-Letter Planning Pages for Tasks, Home, Meals & Money →](https://sakilwave38.gumroad.com/l/overwhelm-reset-kit)**
 
 ---
 
-## 📊 Part 2: The 6 Interconnected Notion Databases
+## How to Use Structured AI Prompts Responsibly
 
-Instead of paying for 5 disconnected software tools, centralize your entire backend on Notion's Free Plan:
-
-| Code | Database Name | Core Function |
-| :--- | :--- | :--- |
-| **DB 01** | **Executive OKRs & Revenue Goals** | Reverse-engineer quarterly goals into measurable weekly key results. |
-| **DB 02** | **Master Projects & Deliverables Hub** | Track product builds, client sprints, deadlines & completion percentages. |
-| **DB 03** | **Eisenhower Priority Action Matrix** | Filter daily tasks by Urgency & True ROI Impact to eliminate busywork. |
-| **DB 04** | **1-Page Visual Client CRM** | Track leads from initial inquiry to proposal sent, follow-up date & closed won. |
-| **DB 05** | **90-Day Pinterest SEO Content Engine** | Batch, organize & schedule 90 days of search-driven organic content. |
-| **DB 06** | **Friday 15-Minute CFO Profit Tracker** | Reconcile weekly revenue, digital payouts, expenses & net profit margins. |
-
-👉 **[Get Instant Access to All 6 Linked Notion Databases Inside The Automated CEO™ →](https://sakilwave38.gumroad.com/l/the-automated-ceo)**
+1. **Define the Role & Task:** Specify the exact writing, planning, or review task you want the AI assistant to draft.
+2. **Supply Real Context:** Paste your actual audience details, product deliverables, and constraints into the `[bracketed]` placeholders.
+3. **Request a Structured Format:** Ask for tables, checklists, or numbered steps.
+4. **Always Review Before Using:** AI outputs are working drafts. Always check facts, tone, privacy, and accuracy before publishing or sending to clients.
